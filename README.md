@@ -3,9 +3,7 @@
   <img src="https://i.imgur.com/ATEHSYp.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://i.imgur.com/cZQHq9K.gif" width="400px"/>
-</div>
+
 
 <h3 align="center">Desenvolvedor focado em sistemas de Delivery 🚀 | Empreendedor no segmento de tecnologia 📱</h3>
 
